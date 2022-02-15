@@ -47,3 +47,7 @@
   <img src="https://user-images.githubusercontent.com/76134357/154091752-5a0d24fd-0e32-41b0-a27e-17704f6c7f2f.png" height="64" title="GitHub">  
 </kbd>
 
+## Contact
+
+* [Gmail](mailto:erikhyun35@gmail.com)
+* [Phone](1-902-626-9935)
