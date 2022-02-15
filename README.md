@@ -27,7 +27,23 @@
 * I created the noKeySolution method in the MazeMap class which finds a route from the start to finish of the maze using a recursive helper function I created called findNextRoom.
 * The rest of the project was created by the professor
 
-## Skills 
+## Programming Languages
 
 <kbd>
-  <img src="https://user-images.githubusercontent.com/76134357/153966944-14a398c4-3809-4e67-b8c6-4cd66045a5aa.png" height="64" title="Solidity">                                                                                                                                          </kbd>
+  <img src="https://user-images.githubusercontent.com/76134357/153966944-14a398c4-3809-4e67-b8c6-4cd66045a5aa.png" height="64" title="Solidity">  
+  <img src="https://user-images.githubusercontent.com/76134357/154089250-f80747e3-52cd-4b2e-a23a-1b0b38a68a60.png" height="64" title="Java">    
+  <img src="https://user-images.githubusercontent.com/76134357/154090438-b07861e8-6818-4f2c-824d-54d1d62c2bed.png" title="JavaScript">    
+  <img src="https://user-images.githubusercontent.com/76134357/154090460-39f58d63-e949-4225-9bb5-3c589090aa09.png" height="64" title="C">    
+  <img src="https://user-images.githubusercontent.com/76134357/154090452-bafa2163-67a4-4bc6-8353-18e5c63b1d37.png" height="64" title="Python">    
+</kbd>
+
+## Tools
+
+<kbd>
+  <img src="https://user-images.githubusercontent.com/76134357/154090476-e240d4e8-6408-4487-8684-46ab13f67bd4.png" height="64" title="React">  
+  <img src="https://user-images.githubusercontent.com/76134357/154090481-81ad6e15-5fed-493d-b74b-f86a7ce1c9c2.png" height="64" title="Ganache">    
+  <img src="https://user-images.githubusercontent.com/76134357/154090496-85935ec3-1c9f-4312-8e1b-231918a93377.jpeg" title="Web3">    
+  <img src="https://user-images.githubusercontent.com/76134357/154090504-c48aeca8-0ca3-4fa5-a1a9-5deb963f618e.png" height="64" title="Node">    
+  <img src="https://user-images.githubusercontent.com/76134357/154090487-ad817df8-0c77-4808-bd65-07aec9e09567.jpeg" height="64" title="Remix">    
+</kbd>
+
