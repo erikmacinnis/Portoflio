@@ -52,4 +52,4 @@
 ## Contact
 
 * [Gmail](mailto:erikhyun35@gmail.com)
-* Phone | 902-626-9935
+* Phone: 902-626-9935
