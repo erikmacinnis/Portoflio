@@ -1,5 +1,3 @@
-# Portoflio
-
 ## Projects
 
 #[Project 1: Defi Token Farm | Guided](https://github.com/erikmacinnnis/DefiTokenFarm)
